@@ -1,2 +1,2 @@
 # hello-world
-criando um ambiente ontegrado com AI generativa
+criando um ambiente integrado com AI generativa
